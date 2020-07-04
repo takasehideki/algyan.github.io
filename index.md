@@ -159,7 +159,7 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | 金子  | 北海道    | [![github](img/github.png)](https://github.com/ToshiakiKaneko)   | 監視されてる。 |
 | ゆうこりん  | こりん星    |  | ばくはつしちゃったじゃん |
 | tonegawa | 地球    |  [![twitter](img/twitter.png)](https://twitter.com/to_ne_gawa) [![github](img/github.png)](https://github.com/tnriver)   |  |
-| tyokochin  | ｔokyo    | [![facebook](img/facebook.png)]() [![twitter](img/twitter.png)]() [![github](img/github.png)](https://github.com/tyokochin)   | 便利そう |
+| tyokochin  | ｔokyo    | [![github](img/github.png)](https://github.com/tyokochin)   | 便利そう |
 | Watabou  | 東京    | [![facebook](img/facebook.png)](https://www.facebook.com/wataru.kato.186) [![twitter](img/twitter.png)](https://twitter.com/zae38) [![github](img/github.png)](https://github.com/watarukato)   | 永遠のLチカ<br>そろそろLチカの次へ  |
 | 夏目久作  | 茨城県    | [![github](img/github.png)](https://github.com/qsaku)   | 現在勉強中です！ |
 | ヒロ  | 中国地方    | [![twitter](img/twitter.png)](https://twitter.com/hironetoge5228) [![github](img/github.png)](https://github.com/hiro-hiro)   | もっといじっていきたいもの |
